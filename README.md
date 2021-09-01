@@ -9,8 +9,5 @@ Previous work has been done in an English setting. In this project, we will expl
  
 Specifically, we will focus on RNN, LSTM, BERT Chinese and RNNG Chinese as the main model architectures. We will build test suites targeting syntactic phenomena that we are interested in. And we will evaluate if data size and model structure affect the process of syntactic learning, and if so, what might be the best combination of data size and model architecture in learning syntactic knowledge.
 
-## Project Doc
-https://docs.google.com/document/d/1bOVDmhIy_TxU1Eb1C4Oaj5FhEVAusv157Mx7FuphERE/edit?usp=sharing
-
 ## Authors
 Yiwen Wang, Peng Qian, Jennifer Hu, Roger Levy
